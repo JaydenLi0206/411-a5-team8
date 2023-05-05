@@ -1,5 +1,6 @@
 # 411-a5-team8
 CS411 Team 8 Project Repository
+Basic Structure for the whole application
 
 
 
